@@ -1,0 +1,26 @@
+id,texto,usuario,hashtags,fecha,retweets,favoritos
+1,Virtual reality technology is revolutionizing the way we experience video games.##Videojuegos technology,gamers_unidos,"['tecnología', 'videojuegos']",2023-03-13 16:45:00,23,87
+2,Apple announces the launch of its new iPhone 15 with improved camera and 6.7 -inch OLED screen.#Apple #iPhone15,tech_news,"['Apple', 'iPhone15']",2023-03-12 10:30:00,234,1876
+3,Google presents its new virtual assistant with artificial intelligence that allows you to control the home from the smartphone.#Google #Hogarinteligente,tech_guru,"['Google', 'hogarinteligente']",2023-03-11 15:20:00,78,489
+4,The Spacex technology company announces the launch of its first commercial flight to the Moon.#Spacex #vuelolunar,espaciofan,"['SpaceX', 'vuelolunar']",2023-03-10 13:10:00,109,732
+5,DJI's new drone is able to record video in 8K and has a flight time of up to 45 minutes.#Drones #Technology,dron_adicto,"['drones', 'tecnología']",2023-03-09 17:05:00,45,256
+6,The NVIDIA technology company launches its new RTX 5080 graphics card with 24 GB of Ray Tracing in real time.#Nvidia #cardographic,pc_master_race,"['Nvidia', 'tarjetagráfica']",2023-03-08 11:55:00,167,1045
+7,New iPhone 13 with 120Hz screen,tech_news,"['iPhone', 'tecnologia']",2022-02-27 10:20:30,50,150
+8,The next generation of Intel processors promises a great advance in performance,tech_world,"['Intel', 'procesadores']",2022-02-26 08:30:15,120,250
+9,Samsung presents its new folding phone,smartphone_lover,"['Samsung', 'teléfonos plegables']",2022-02-25 15:45:00,30,80
+10,Apple presents its new Macbook Pro line with M2 chip,apple_news,"['MacBook', 'Apple']",2022-02-24 12:10:05,80,200
+11,Google announces new tools for Android developers,android_dev,"['Android', 'desarrollo']",2022-02-23 09:00:20,40,100
+12,Elon Musk announces a new spacex rocket launch,spacex_fan,"['SpaceX', 'Elon Musk']",2022-02-22 14:30:45,120,300
+13,Microsoft launches an important update for Windows 11,windows_user,"['Windows', 'actualización']",2022-02-21 11:40:10,60,150
+14,The Apple technological giant presents its new product line in a virtual event.Among the novelties are the new iPhone and the Apple Watch Series 8. #Appleevent #Nuevos Products,appleguru,"['AppleEvent', 'nuevosproductos']",2023-03-11 10:30:00,652,4121
+15,"Artificial intelligence is increasingly present in our lives, but do we really know how it works?In our last article we explain everything about this technology.#Antificial #ia #ia",tecnologíainfo,"['inteligenciaartificial', 'IA']",2023-03-11 15:20:00,34,93
+16,Blockchain technology is revolutionizing the way in which financial transactions are made.Discover everything you need to know about this technology in our last article.#BLOCKCHAIN #CRIPTOMONEDAS,criptoinfo,"['blockchain', 'criptomonedas']",2023-03-12 09:45:00,51,189
+17,Advances in technology allow creating more and more sophisticated and precise prostheses.In our last article we talk about some of the most innovative developments in this field.#Prosthesis #Technology,innovatech,"['prótesis', 'tecnología']",2023-03-12 14:15:00,23,64
+18,Increased reality technology is becoming an indispensable tool for fashion designers.Discover how this technology is being used in our last article.#Raulted #Moda,fashiontech,"['realidadaumentada', 'moda']",2023-03-13 11:00:00,45,167
+19,"Facial recognition technology is being used in many areas, but is it really sure?In our last article we analyze the risks of this technology and how they can be mitigated.#Facial Recognition #Segury",seguridadtech,"['reconocimientofacial', 'seguridad']",2023-03-13 15:30:00,87,312
+20,5G technology is revolutionizing the way we connect to the Internet.In our last article we explain everything you need to know about this new technology.#Technology5G #Internet,conexiónveloz,"['tecnología5G', 'internet']",2023-03-14 10:00:00,75,245
+21,Cloud technology has transformed the way we store and share information.In our last article we explain everything you need to know about this technology.#Technology of the #Almacement,cloudtech,"['tecnologíadelanube', 'almacenamiento']",2023-03-14 14:30:00,40,132
+22,Virtual reality technology is transforming the way we experience entertainment.In our last article we tell you everything you need to know about this technology.#Soidad Virtual #Entrenemimiento,entertech,"['realidadvirtual', 'entretenimiento']",2023-03-15 09:15:00,52,189
+23,"Drones technology is being used in many areas, from the delivery of packages to surveillance.In our last article we explain everything you need to know about this technology.#Drones #Technology",dronetech,"['drones', 'tecnología']",2023-03-15 15:00:00,29,96
+24,Artificial intelligence technology is transforming the way companies make decisions.In our last article we tell you everything you need to know about this technology.#Artificial #empresas,businessai,"['inteligenciaartificial', 'empresas']",2023-03-16 11:20:00,62,215
+25,Biometry technology is being used to improve safety in many areas.In our last article we explain everything you need to know about this technology.#Biometry #Segury,biotech,"['biometría', 'seguridad']",2023-03-16 16:45:00,47,176
